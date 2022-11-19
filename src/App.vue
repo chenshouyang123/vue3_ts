@@ -1,5 +1,5 @@
 <template>
-  <div>qewqew</div>
+  <div>修改app组件</div>
 </template>
 
 <script lang="ts">
